@@ -1,0 +1,6 @@
+{
+  "name": "AlphaChain - Quant Supply Chain Screener",
+  "description": "High-contrast quantitative alternative data and supply chain alpha screener generating actionable long/short pairs and Google Sheets portfolio execution models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
